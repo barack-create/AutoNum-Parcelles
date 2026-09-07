@@ -1,0 +1,20 @@
+[general]
+name=AutoNum Parcelles
+qgisMinimumVersion=3.16
+description=Numérote automatiquement les parcelles cadastrales par ordre de proximité (plus proche voisin), en partant de la parcelle la plus au nord-ouest.
+version=1.0
+author=Moubarak BONI SALIFOU
+email=contact@example.com
+
+about=Ce plugin ajoute un algorithme dans la boîte à outils de traitement de QGIS permettant de numéroter automatiquement une couche de parcelles (polygones) de façon consécutive, en suivant l'ordre du plus proche voisin. Utile pour la production de plans parcellaires et documents cadastraux.
+
+tracker=https://github.com/barack-create/AutoNum-Parcelles/issues
+repository=https://github.com/barack-create/AutoNum-Parcelles
+category=Vector
+tags=cadastre,parcelle,foncier,numerotation,qgis,traitement
+
+homepage=https://github.com/barack-create/AutoNum-Parcelles
+icon=icon.png
+experimental=False
+deprecated=False
+server=False
